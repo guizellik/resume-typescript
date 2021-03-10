@@ -35,7 +35,7 @@ function App() {
         {
           id: 1,
           instituicao: ' POLICAMP - Faculdade Politécnica de Campinas ',
-          curso: 'Direito'
+          curso: 'Law'
         },
         {
           id: 2,
@@ -52,7 +52,7 @@ function App() {
         {
           id: 1,
           cargo: 'Duty Manager',
-          periodo: 'Novembro 2019 - Nowdays',
+          periodo: 'Nov 2019 - Nowdays',
           empresa: 'British Telecom',
           local: 'Hortolândia, São Paulo',
           conteudo: 'Critical incidents, crisis, high profile management. ITSM focused professional who ensures that the hired SLA is being accomplished.'
