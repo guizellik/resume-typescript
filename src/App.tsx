@@ -11,9 +11,9 @@ function App() {
   const fakeAPI:DadosDoUsuario =
     {
       nome: 'Karina Guizelli',
-      ocupacao: 'Future Frontend Dev',
-      resumo: 'Studying to become a FrontEnd developer focused on JavaScript and React.Js ',
-      perfilProfissional: 'Besides my lack of professional experience as developer, I am studying to migrated from my current career on networks/telecom area. Also advanced speaker of English and Spanish - not mentioning Portuguese(Brazil) native. ',
+      ocupacao: 'Front-end student focused on JavaScript, ReactJS and Typescript',
+      resumo: 'Trilingual and dedicated person willing to accept a junior position and finally join the development world!',
+      perfilProfissional: 'Studying to become a junior front-end focused on ReactJS, JavaScript and Typescript. Besides the lack of professional experience on development world, I have been studying ReactJS on Campinas Tech Talents bootcamp and delivering project weekly to upgrade my portfolio. ',
       contatos: [
         {
           id: 1,
@@ -24,6 +24,11 @@ function App() {
           id: 2,
           tipo: 'E-mail',
           contato: 'karina.guizelli@gmail.com'
+        },
+        {
+          id: 3,
+          tipo: 'GitHub',
+          contato: 'https://github.com/guizellik'
         }
       ],
       educacao: [
