@@ -1,6 +1,6 @@
 {
   "name": "curriculo-typescript",
-  "homepage": "https://guizellik.github.io/karina-guizelli-resume",
+  "homepage": "./",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
