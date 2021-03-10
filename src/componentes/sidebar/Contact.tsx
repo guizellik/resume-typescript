@@ -12,7 +12,7 @@ const Contact = (props: ContactProps) => {
     return (
         <>
             <div className="sidebar">
-                <h3>Contatos</h3>
+                <h3>Contact Me!</h3>
                 <button onClick={ () => { setMostraContato(true) }}>Mostrar Contatos</button>
                 {
                     mostraContato === true ?

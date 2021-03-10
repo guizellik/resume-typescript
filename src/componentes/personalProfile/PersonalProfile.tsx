@@ -17,7 +17,7 @@ const PersonalProfile = (props: Perfil) => {
             <p>{resumo}</p>
             </div>
             <div className="titulo">
-                Perfil <br /> Profissional
+                Professional <br /> Profile
             </div>
 
             <div className="perfil-profissional">

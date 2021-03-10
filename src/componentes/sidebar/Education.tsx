@@ -12,7 +12,7 @@ const Education = (props: EducationProps) => {
     return (
         <>
             <div className="sidebar">
-                <h3>Educação</h3>
+                <h3>Education</h3>
                 <div className="lista-de-formacao">
                     {
                         educacao.map((item) => (

@@ -11,7 +11,7 @@ const ProfessionalExperience = (props: ProfessionalExperienceProps) => {
     return (
         <>
             <div className="experience">
-                <h2>Experiência Profissional</h2>
+                <h2>Professional Education</h2>
                 { experienceList.map((item) => {
                         const {cargo, periodo, empresa, local, conteudo} = item
                         return (
